@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\features\\loginfunctionalities.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\features\\loginfunctionalities.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\pages\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\pages\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\stepdefinitions\\loginfunctionalitiesstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\stepdefinitions\\loginfunctionalitiesstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\utilities\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\utilities\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\utilities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\utilities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\utilities\\testparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\utilities\\testparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\appsettings.dev.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\appsettings.dev.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\appsettings.fvt.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\appsettings.fvt.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\.gitlab-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\.gitlab-ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|c:\\users\\ilhami.aktan\\source\\repos\\testrepo\\playwrightdotnet\\playwrightdotnet\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC893F6-25F1-4113-8AE6-199C728AF1CA}|PlaywrightDotNet\\PlaywrightDotNet.csproj|solutionrelative:playwrightdotnet\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Pages\\TestBase.cs",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\Pages\\TestBase.cs",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Pages\\TestBase.cs",
+              "RelativeToolTip": "PlaywrightDotNet\\Pages\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:43:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginFunctionalitiesStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\StepDefinitions\\LoginFunctionalitiesStepDefinitions.cs",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\StepDefinitions\\LoginFunctionalitiesStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\StepDefinitions\\LoginFunctionalitiesStepDefinitions.cs",
+              "RelativeToolTip": "PlaywrightDotNet\\StepDefinitions\\LoginFunctionalitiesStepDefinitions.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:40:08.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginFunctionalities.feature",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Features\\LoginFunctionalities.feature",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\Features\\LoginFunctionalities.feature",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Features\\LoginFunctionalities.feature",
+              "RelativeToolTip": "PlaywrightDotNet\\Features\\LoginFunctionalities.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-23T09:36:40.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Features\\Calculator.feature",
+              "RelativeToolTip": "PlaywrightDotNet\\Features\\Calculator.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-23T09:35:37.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\ImplicitUsings.cs",
+              "RelativeToolTip": "PlaywrightDotNet\\ImplicitUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:12:04.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\appsettings.json",
+              "RelativeToolTip": "PlaywrightDotNet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T09:08:37.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.FVT.json",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\appsettings.FVT.json",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\appsettings.FVT.json",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\appsettings.FVT.json",
+              "RelativeToolTip": "PlaywrightDotNet\\appsettings.FVT.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T09:05:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.DEV.json",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\appsettings.DEV.json",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\appsettings.DEV.json",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\appsettings.DEV.json",
+              "RelativeToolTip": "PlaywrightDotNet\\appsettings.DEV.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T09:05:37.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".gitlab-ci.yml",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\.gitlab-ci.yml",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\.gitlab-ci.yml",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\.gitlab-ci.yml",
+              "RelativeToolTip": "PlaywrightDotNet\\.gitlab-ci.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-23T08:55:34.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "PlaywrightDotNet\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:22:54.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Utilities\\TestParameters.cs",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\Utilities\\TestParameters.cs",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Utilities\\TestParameters.cs",
+              "RelativeToolTip": "PlaywrightDotNet\\Utilities\\TestParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:18:15.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Utilities\\Configuration.cs",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\Utilities\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Utilities\\Configuration.cs",
+              "RelativeToolTip": "PlaywrightDotNet\\Utilities\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:17:57.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Utilities\\Driver.cs",
+              "RelativeDocumentMoniker": "PlaywrightDotNet\\Utilities\\Driver.cs",
+              "ToolTip": "C:\\Users\\Ilhami.Aktan\\source\\repos\\TestRepo\\PlaywrightDotNet\\PlaywrightDotNet\\Utilities\\Driver.cs",
+              "RelativeToolTip": "PlaywrightDotNet\\Utilities\\Driver.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:17:40.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
