@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JbbOuDcJ/z4=",
+  "dgSpecHash": "Ert0ALPsodc=",
   "success": true,
-  "projectFilePath": "/Users/ufuksahinduran/Desktop/VS Code Project/C#-Playwright/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj",
+  "projectFilePath": "/Users/ufuksahinduran/Desktop/VS Code Project/JustPlaywright/clone/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj",
   "expectedPackageFiles": [
+    "/Users/ufuksahinduran/.nuget/packages/bogus/35.6.3/bogus.35.6.3.nupkg.sha512",
     "/Users/ufuksahinduran/.nuget/packages/cucumber.cucumberexpressions/17.1.0/cucumber.cucumberexpressions.17.1.0.nupkg.sha512",
     "/Users/ufuksahinduran/.nuget/packages/gherkin/30.0.0/gherkin.30.0.0.nupkg.sha512",
     "/Users/ufuksahinduran/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
