@@ -33,20 +33,20 @@ public class LoginSignUpStepDefinitions : TestBase{
         [When("User clicks to SignUp_Login module")]
         public async Task WhenUserClicksToSignUpLoginModule()
         {
-            await _driver.Page.Locator("//a[@href='/login']").ClickAsync();
+            await _loginSignUp.LoginSignUpLink.ClickAsync();
         }
 
         [When("User enters invalid username")]
         public async Task WhenUserEntersInvalidUsername()
         {
-            await _loginSignUp.UserNameLogin.FillAsync(Configuration.Instance.TestParameters.Username);
+            await _loginSignUp.UserNameLogin.FillAsync(Configuration.Instance.TestParameters.InvalidUsername);
     
         }
 
         [When("User enters invalid password")]
         public async Task WhenUserEntersInvalidPassword()
         {
-            await _loginSignUp.PasswordLogin.FillAsync(Configuration.Instance.TestParameters.Password);
+            await _loginSignUp.PasswordLogin.FillAsync(Configuration.Instance.TestParameters.InvalidPassword);
     
         }
 
