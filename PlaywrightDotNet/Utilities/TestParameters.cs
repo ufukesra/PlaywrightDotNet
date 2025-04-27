@@ -8,7 +8,9 @@ namespace PlaywrightDotNet.Utilities
 {
     public class TestParameters
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
+        public string InvalidUsername { get; set; }
+        public string InvalidPassword { get; set; }
+        public string ValidUsername {get; set;}
+        public string ValidPassword {get; set;}
     }
 }

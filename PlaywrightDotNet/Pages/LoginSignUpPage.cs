@@ -19,6 +19,7 @@ namespace PlaywrightDotNet.Pages
 
          private string loginForm="Login to your account";
         private string signUpForm="New User Signup!";
+        public ILocator LoginSignUpLink => _driver.Page.Locator("//a[@href='/login']");
         public ILocator UserNameLogin => _driver.Page.Locator("//h2[text()='"+loginForm+"']/following-sibling::form/input[2]");
         public ILocator PasswordLogin => _driver.Page.Locator("//h2[text()='"+loginForm+"']/following-sibling::form/input[3]");
         public ILocator LoginButton => _driver.Page.Locator("//h2[text()='"+loginForm+"']/following-sibling::form/button");
