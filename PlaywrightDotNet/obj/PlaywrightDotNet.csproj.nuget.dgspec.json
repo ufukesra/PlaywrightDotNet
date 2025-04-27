@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ufuksahinduran/Desktop/VS Code Project/C#-Playwright/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj": {}
+    "/Users/ufuksahinduran/Desktop/VS Code Project/JustPlaywright/clone/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj": {}
   },
   "projects": {
-    "/Users/ufuksahinduran/Desktop/VS Code Project/C#-Playwright/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj": {
+    "/Users/ufuksahinduran/Desktop/VS Code Project/JustPlaywright/clone/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ufuksahinduran/Desktop/VS Code Project/C#-Playwright/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj",
+        "projectUniqueName": "/Users/ufuksahinduran/Desktop/VS Code Project/JustPlaywright/clone/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj",
         "projectName": "PlaywrightDotNet",
-        "projectPath": "/Users/ufuksahinduran/Desktop/VS Code Project/C#-Playwright/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj",
+        "projectPath": "/Users/ufuksahinduran/Desktop/VS Code Project/JustPlaywright/clone/PlaywrightDotNet/PlaywrightDotNet/PlaywrightDotNet.csproj",
         "packagesPath": "/Users/ufuksahinduran/.nuget/packages/",
-        "outputPath": "/Users/ufuksahinduran/Desktop/VS Code Project/C#-Playwright/PlaywrightDotNet/PlaywrightDotNet/obj/",
+        "outputPath": "/Users/ufuksahinduran/Desktop/VS Code Project/JustPlaywright/clone/PlaywrightDotNet/PlaywrightDotNet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ufuksahinduran/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[9.0.4, )"
