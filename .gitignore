@@ -1,0 +1,26 @@
+# Build and project files
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+bin/
+**/bin/
+**/bin/**/* 
+
+# Dependencies
+**/node_modules/
+**/.npm/
+
+# IDE-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+
+
+# Playwright
+.playwright/
+
+# macOS
+.DS_Store
