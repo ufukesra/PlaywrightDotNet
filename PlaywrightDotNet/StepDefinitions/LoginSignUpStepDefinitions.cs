@@ -38,8 +38,7 @@ public class LoginSignUpStepDefinitions : TestBase{
 
         [When("User enters invalid username")]
         public async Task WhenUserEntersInvalidUsername()
-        {
-            await _loginSignUp.UserNameLogin.FillAsync(Configuration.Instance.TestParameters.InvalidUsername);
+        {            await _loginSignUp.UserNameLogin.FillAsync(Configuration.Instance.TestParameters.InvalidUsername);
     
         }
 

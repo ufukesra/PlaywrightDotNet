@@ -21,31 +21,6 @@ namespace PlaywrightDotNet.StepDefinitions
         }
 
 
-        // [Given("User enters valid email")]
-        // public async Task GivenUserEntersValidEmail()
-        // {
-        //     await _homePage.UserNameLogin.FillAsync(Configuration.Instance.TestParameters.ValidUsername);
-        // }
-
-        // [Given("User enters valid password")]
-        // public async Task GivenUserEntersValidPassword()
-        // {
-        //     await _homePage.PasswordLogin.FillAsync(Configuration.Instance.TestParameters.ValidPassword);
-        // }
-
-        // [Given("User clicks Login button")]
-        // public async Task GivenUserClicksLoginButton()
-        // {
-        //     await ClassLocatorStartsWith("span", "login-button","1").ClickAsync();
-        // }
-
-        // [Then("User verifies successfull login")]
-        // public async Task ThenUserVerifiesSuccessfullLogin()
-        // {
-        //     var isExist = await ClassLocatorStartsWith("span", "text-success fw-bold", "1").InnerTextAsync();
-        //     Assert.IsTrue(isExist.Contains(Configuration.Instance.TestParameters.Username));
-        // }
-
          [Given("User navigates to landing page")]
         public async Task GivenUserNavigatesToLandingPage()
         {
@@ -67,7 +42,7 @@ namespace PlaywrightDotNet.StepDefinitions
     [Then("User validates the Page Header {string}")]
         public async Task ThenUserValidatesThePageHeader(string expectedPageHeader)
         {
-            //Console.WriteLine("HEADER:"+await _homePage.PageHeader.InnerTextAsync());
+            
             await Expect(_homePage.PageHeader).ToHaveTextAsync(expectedPageHeader);
         }
     }
