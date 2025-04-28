@@ -10,7 +10,10 @@ namespace PlaywrightDotNet.Pages
 {
     public class ProductPage : TestBase
     {
-        public ProductPage(Driver driver) : base(driver) { }
+        private readonly Driver _driver;
+        public ProductPage(Driver driver) : base(driver) {
+            _driver = driver;
+         }
 
         public ILocator ProductPageLink=> _driver.Page.Locator("//a[@href='/products']");
         public ILocator PageHeader => _driver.Page.Locator("//div[@class='features_items']/h2[starts-with(@class,'title')]");
